@@ -5,3 +5,4 @@
 - I’m currently working on **personal projects** to sharpen my development skills.  
 - I’m learning **JavaScript, React, Node.js, and databases** to build complete full-stack apps, as well as Machine Learning.
 - Currently majoring in **Informatics**.
+- I love testing open-source projects built for Linux.
